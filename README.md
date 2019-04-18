@@ -1,1 +1,1 @@
-# genomic_guides_public
+Quick guides to genomics/bioinformatics softwares and pipelines
